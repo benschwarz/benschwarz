@@ -3,6 +3,5 @@
 <p align="center">
   <a href="https://germanforblack.com" rel="follow me">Website</a> •
   <a href="https://front-end.social/@benschwarz" rel="follow me">Mastodon</a> •
-  <strike><a href="https://twitter.com/benschwarz" rel="follow me">Twitter</a></strike> •
   <a href="https://www.linkedin.com/in/ben-schwarz-a7a04715b/" rel="follow me">LinkedIn</a>
 </p>
